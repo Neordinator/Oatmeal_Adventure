@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="2021.01.13" orientation="orthogonal" renderorder="right-down" width="150" height="17" tilewidth="32" tileheight="32" infinite="0" nextlayerid="7" nextobjectid="29">
+ <editorsettings>
+  <export format="tmx"/>
+ </editorsettings>
+ <tileset firstgid="1" source="tiles.xml"/>
+ <imagelayer id="6" name="lvl">
+  <image source="lvl1.png" width="4800" height="544"/>
+ </imagelayer>
+ <objectgroup id="5" name="Слой объектов 1">
+  <object id="7" name="solid" x="0" y="448" width="751.003" height="32"/>
+  <object id="8" name="solid" x="324.667" y="319.333" width="181.67" height="32"/>
+  <object id="9" name="solid" x="1221.33" y="320.666" width="181.67" height="32"/>
+  <object id="10" name="solid" x="1766" y="287.333" width="181.67" height="32"/>
+  <object id="11" name="solid" x="1989.33" y="352" width="149.67" height="32"/>
+  <object id="12" name="solid" x="740.667" y="352" width="137.67" height="32"/>
+  <object id="13" name="solid" x="868.667" y="256" width="181.67" height="32"/>
+  <object id="14" name="solid" x="1042" y="448" width="1192.34" height="96"/>
+  <object id="15" name="solid" x="2309.33" y="448" width="2490.34" height="94.6667"/>
+  <object id="16" name="MovingPlatform" x="2341.33" y="256" width="149.67" height="32"/>
+  <object id="17" name="MovingPlatform" x="2564.66" y="320.667" width="149.67" height="32"/>
+  <object id="18" name="solid" x="751.334" y="384" width="287.003" height="93.3333"/>
+  <object id="19" name="solid" x="878" y="288" width="161.67" height="97.3333"/>
+  <object id="20" name="ladder" x="1136" y="194" width="32.3367" height="253.333"/>
+  <object id="21" name="solid" x="1108" y="195.333" width="85.67" height="32"/>
+  <object id="22" name="enemy" x="2953.99" y="368.667" width="95.0033" height="77.3333"/>
+  <object id="23" name="SlopeRight" x="3908.66" y="351.334" width="57.67" height="96"/>
+  <object id="24" name="solid" x="3969.99" y="351.334" width="95.0033" height="96"/>
+  <object id="25" name="SlopeLeft" x="4069.99" y="352.667" width="59.0033" height="96"/>
+  <object id="26" name="player" x="159.334" y="159.333" width="65.67" height="66.6667"/>
+  <object id="27" name="solid" x="-1.42109e-14" y="0" width="20.3363" height="448"/>
+  <object id="28" name="solid" x="4780" y="0" width="20.3363" height="448"/>
+ </objectgroup>
+</map>

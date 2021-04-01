@@ -1,0 +1,13 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="ovsyanka_total.png" transparentColor="">
+ <animation title="walk" delay="150">
+  <cut w="61" x="0" y="4" h="61" row="1" col="1"/>
+  <cut w="61" x="65" y="0" h="65" row="1" col="1"/>
+  <cut w="59" x="131" y="0" h="65" row="1" col="1"/>
+  <cut w="60" x="195" y="0" h="66" row="1" col="1"/>
+  <cut w="62" x="257" y="0" h="64" row="1" col="1"/>
+  <cut w="62" x="322" y="9" h="55" row="1" col="1"/>
+  <cut w="64" x="384" y="7" h="57" row="1" col="1"/>
+  <cut w="61" x="450" y="10" h="55" row="1" col="1"/>
+ </animation>
+</sprites>

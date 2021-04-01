@@ -1,0 +1,15 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="ovsyanka_total.png" transparentColor="">
+ <animation title="jump" delay="150">
+  <cut w="57" x="67" y="132" h="60" row="1" col="1"/>
+  <cut w="57" x="67" y="132" h="60" row="1" col="1"/>
+  <cut w="57" x="67" y="132" h="60" row="1" col="1"/>
+  <cut w="61" x="2" y="138" h="53" row="1" col="1"/>
+  <cut w="54" x="133" y="129" h="62" row="1" col="1"/>
+  <cut w="45" x="201" y="128" h="64" row="1" col="1"/>
+  <cut w="50" x="263" y="128" h="63" row="1" col="1"/>
+  <cut w="54" x="324" y="130" h="61" row="1" col="1"/>
+  <cut w="59" x="386" y="136" h="55" row="1" col="1"/>
+  <cut w="59" x="450" y="129" h="62" row="1" col="1"/>
+ </animation>
+</sprites>

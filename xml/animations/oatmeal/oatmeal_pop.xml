@@ -1,0 +1,8 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="ovsyanka_total.png" transparentColor="">
+ <animation title="pop" delay="100">
+  <cut w="62" x="0" y="65" h="63" row="1" col="1"/>
+  <cut w="60" x="66" y="68" h="61" row="1" col="1"/>
+  <cut w="62" x="128" y="66" h="62" row="1" col="1"/>
+ </animation>
+</sprites>

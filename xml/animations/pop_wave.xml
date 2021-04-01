@@ -1,0 +1,12 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="pop_wave.png" transparentColor="0">
+ <animation title="move" delay="75">
+  <cut w="31" x="0" y="31" h="71" row="1" col="1"/>
+  <cut w="61" x="105" y="5" h="126" row="1" col="1"/>
+  <cut w="96" x="215" y="0" h="133" row="1" col="1"/>
+ </animation>
+ <animation title="explode" delay="25">
+  <cut w="96" x="215" y="0" h="133" row="1" col="1"/>
+  <cut w="31" x="0" y="31" h="71" row="1" col="1"/>
+ </animation>
+</sprites>

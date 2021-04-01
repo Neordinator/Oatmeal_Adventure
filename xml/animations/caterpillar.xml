@@ -1,0 +1,17 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="Caterpillar.png" transparentColor="FFFFFF">
+ <animation title="move_right" delay="100">
+  <cut w="171" x="10" y="5" h="53" row="1" col="1"/>
+  <cut w="171" x="10" y="69" h="53" row="1" col="1"/>
+  <cut w="171" x="10" y="133" h="53" row="1" col="1"/>
+  <cut w="171" x="10" y="197" h="53" row="1" col="1"/>
+  <cut w="171" x="10" y="261" h="53" row="1" col="1"/>
+ </animation>
+ <animation title="move" delay="100">
+  <cut w="171" x="202" y="5" h="53" row="1" col="1"/>
+  <cut w="171" x="202" y="69" h="53" row="1" col="1"/>
+  <cut w="171" x="202" y="133" h="53" row="1" col="1"/>
+  <cut w="171" x="202" y="197" h="53" row="1" col="1"/>
+  <cut w="171" x="202" y="261" h="53" row="1" col="1"/>
+ </animation>
+</sprites>

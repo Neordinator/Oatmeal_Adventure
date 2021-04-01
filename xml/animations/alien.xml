@@ -1,0 +1,30 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="Alien.png" transparentColor="0">
+ <animation title="stand" delay="100">
+  <cut w="62" x="161" y="50" h="78" row="1" col="1"/>
+  <cut w="64" x="160" y="175" h="81" row="1" col="1"/>
+  <cut w="66" x="159" y="298" h="86" row="1" col="1"/>
+  <cut w="64" x="160" y="431" h="81" row="1" col="1"/>
+ </animation>
+ <animation title="roar" delay="130">
+  <cut w="62" x="33" y="50" h="78" row="1" col="1"/>
+  <cut w="66" x="31" y="171" h="85" row="1" col="1"/>
+  <cut w="68" x="30" y="296" h="88" row="1" col="1"/>
+  <cut w="71" x="29" y="421" h="91" row="1" col="1"/>
+ </animation>
+ <animation title="walk" delay="120">
+  <cut w="63" x="286" y="49" h="79" row="1" col="1"/>
+  <cut w="62" x="289" y="178" h="78" row="1" col="1"/>
+  <cut w="63" x="291" y="305" h="79" row="1" col="1"/>
+  <cut w="62" x="289" y="434" h="78" row="1" col="1"/>
+  <cut w="62" x="286" y="561" h="79" row="1" col="1"/>
+ </animation>
+ <animation title="hit" delay="100">
+  <cut w="62" x="417" y="40" h="78" row="1" col="1"/>
+  <cut w="66" x="415" y="160" h="86" row="1" col="1"/>
+ </animation>
+ <animation title="dead" delay="50">
+  <cut w="62" x="417" y="40" h="78" row="1" col="1"/>
+  <cut w="66" x="415" y="160" h="86" row="1" col="1"/>
+ </animation>
+</sprites>
